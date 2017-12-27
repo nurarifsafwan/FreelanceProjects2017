@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\gson-2.2.4 (1).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\pre-dexed\debug\gson-2.2.4 (1)_507df1bdceb6e92788214066ebc39fdbe20b15b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\gson-2.2.4 (1).jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4 (1)_507df1bdceb6e92788214066ebc39fdbe20b15b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\pre-dexed\debug\KGJsonConverter_6ed33ecfbd1380d985ba945b0766a03227655519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\pre-dexed\debug\GenAsync.1.2_3aa7cd2f6617848af396221baf8df611f26c41c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\KGJsonConverter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_6ed33ecfbd1380d985ba945b0766a03227655519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_3aa7cd2f6617848af396221baf8df611f26c41c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85ba87987711e7c2e6661b5b1ed8008b6ae64b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9647bad40f0b279b6266affb1027ee2f3ac3a585">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ConfinementLady(master)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ffeabe997f0d301854bb210f253d82166661190a\classes.dex" />
+    </item>
+
+</items>

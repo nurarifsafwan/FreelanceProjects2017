@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fueledbyarif.android.uniten_v110"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Home" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Register" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Results" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Ledger" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Survey" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Timetable" />
+        <activity android:name="com.fueledbyarif.android.uniten_v110.Announcement" />
+    </application>
+
+</manifest>

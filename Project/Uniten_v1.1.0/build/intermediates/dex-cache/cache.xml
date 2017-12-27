@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_9b41660b00eb5f98262e617a87a7482f1a149bdf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dc67a7ff61fe3c3b7954159446384c8eba8c54a8">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_60329dfe854599063827d8508c16e13f91dd10db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_b23fd944d80a79a9fdf1097af0b631bbabbd6267\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_1e7c546fbc4fa3efd582d17b3425262538516565\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_5b73dc0316a8ff2b7c07e8cf10d87f1703baf49b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e88c89c07acaf40e19d258a6927e8e4b15296d88">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_608f0870ee4c0acf1e2e931a0af596360a0037af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_d306b462b7884acb32efe9a8ef16d51031977326\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_fb0b1652f423097915161a2fb5017818e7941d8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_069159b77afc1a9107a75a120cee71c606438466\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\libs\KGJsonConverter.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_94f909dfcc4fe3afd34b9bc079ff1c46067545cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_64236a510c5e61aa8db2a5c8f6b349e2c74dbfb5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_42681dbeb8bf513400e33b5aa2250fbf2cbec81f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Uniten_v1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.amigold.fundapter-library-1.0_f7b719fc95993bbb827bf9acfb4f11de9b5673e2\classes.dex" />
+    </item>
+
+</items>

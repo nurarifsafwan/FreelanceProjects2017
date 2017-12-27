@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.anis.android.confinementladymaster">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="@android:icon">
+        <activity android:name=".UserLogin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserRegister" />
+        <activity android:name=".LadyLogin" />
+        <activity android:name=".LadyRegister" />
+        <activity
+            android:name=".UserHome"
+            android:label="@string/title_activity_user_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LadyHome"
+            android:label="@string/title_activity_lady_home" />
+        <activity android:name=".LadyManage" />
+        <activity android:name=".UserManage" />
+        <activity android:name=".LadyInsertPackage" />
+        <activity android:name=".LadyLoginActivity" />
+        <activity android:name=".LadyHomeLanding" />
+        <activity android:name=".LadyManageInfo" />
+        <activity
+            android:name=".UserBrowse"
+            android:label="@string/title_activity_user_browse"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".UserPackageDetail" />
+        <activity android:name=".About" />
+        <activity android:name=".UserClasses" />
+        <activity android:name=".UserDeletePackage"></activity>
+    </application>
+
+</manifest>

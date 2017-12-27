@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_user_home_drawer.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\menu\\activity_user_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\menu\\user_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\menu\\navigation.xml"
+    }
+]

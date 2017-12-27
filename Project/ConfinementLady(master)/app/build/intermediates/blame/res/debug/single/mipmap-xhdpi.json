@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_logo_header.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_logo_header.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\ConfinementLady(master)\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

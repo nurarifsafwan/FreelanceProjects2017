@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anis.android.confinementladymaster"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.anis.android.confinementladymaster.UserLogin" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.anis.android.confinementladymaster.UserRegister" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyLogin" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyRegister" />
+        <activity
+            android:name="com.anis.android.confinementladymaster.UserHome"
+            android:label="@string/title_activity_user_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.anis.android.confinementladymaster.LadyHome"
+            android:label="@string/title_activity_lady_home" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyManage" />
+        <activity android:name="com.anis.android.confinementladymaster.UserManage" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyInsertPackage" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyLoginActivity" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyHomeLanding" />
+        <activity android:name="com.anis.android.confinementladymaster.LadyManageInfo" />
+        <activity
+            android:name="com.anis.android.confinementladymaster.UserBrowse"
+            android:label="@string/title_activity_user_browse"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.anis.android.confinementladymaster.UserPackageDetail" />
+        <activity android:name="com.anis.android.confinementladymaster.About" />
+        <activity android:name="com.anis.android.confinementladymaster.UserClasses" />
+        <activity android:name="com.anis.android.confinementladymaster.UserDeletePackage" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.anis.android.confinementladymaster.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
